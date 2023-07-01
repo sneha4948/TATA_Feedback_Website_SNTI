@@ -5,6 +5,6 @@ The project is in the form of a website where a user can login with their user I
 
 This website  contains five web-pages: trainee-login, trainee-details, trainee-update-details, new trainee-registration and feedback page.
 
-![image](https://github.com/sneha4948/TATA_Feedback_Website_SNTI/assets/80635271/e4882400-2f8d-409c-9610-911f3d0d665d)
+![image](https://github.com/sneha4948/TATA_Feedback_Website_SNTI/assets/80635271/d7384524-6b70-4bd8-a058-8c7ae60ef217)
 ![image](https://github.com/sneha4948/TATA_Feedback_Website_SNTI/assets/80635271/be47f611-b41a-4151-8055-befa0cc65f31)
 
